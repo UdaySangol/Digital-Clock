@@ -12,6 +12,9 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    /* You can add background image also */
+    /* background-image: url("https://wallpapercave.com/wp/wp3709137.jpg");
+    background-position: center; */
     background: linear-gradient(to bottom right, #000607, #a5a6a7); /* Blue Gradient */
     color: white;
 }
